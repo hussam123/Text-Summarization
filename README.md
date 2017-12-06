@@ -1,5 +1,5 @@
 # Text-Summarization
-Abstractive and Extractive Deep Learning Methods for Text Summarisation
+Abstractive and Extractive Deep Learning Methods for Text Summarization
 
 # References
 1. Alexander M. Rush, Sumit Chopra, Jason Weston. [A Neural Attention Model for Abstractive Sentence Summarization](http://aclweb.org/anthology/D/D15/D15-1044.pdf). EMNLP (2015).
