@@ -14,8 +14,12 @@ Abstractive and Extractive Deep Learning Methods for Text Summarisation
 6. Abigail See, Peter J. Liu, Christopher D. Manning. "Get To The Point: Summarization with Pointer-Generator Networks". ACL (2017).
 
 7. Qingyu Zhou, Nan Yang, Furu Wei, Ming Zhou. "Selective Encoding for Abstractive Sentence Summarization". ACL (2017)
-8. 
 
+
+# Basics
+1. Ilya Sutskever, Oriol Vinyals, Quoc V. Le."Sequence to Sequence Learning with Neural Networks" . NIPS 2014.
+2. 	Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio. "Neural Machine Translation by Jointly Learning to Align and Translate". CoRR (2014)
+3. Thang Luong, Hieu Pham, Christopher D. Manning." Effective Approaches to Attention-based Neural Machine Translation". EMNLP 2015.
 
 # To Read:
 - Jianpeng Cheng, Mirella Lapata. "Neural Summarization by Extracting Sentences and Words". ACL(2016)
@@ -24,4 +28,4 @@ Abstractive and Extractive Deep Learning Methods for Text Summarisation
 - Suzuki Jun, and Masaaki Nagata. "Cutting-off Redundant Repeating Generations for Neural Abstractive Summarization". EACL (2017)
 - Jiwei Tan and Xiaojun Wan. "Abstractive Document Summarization with a Graph-Based Attentional Neural Model". ACL (2017).
 - Wenyuan Zeng, Wenjie Luo, Sanja Fidler, Raquel Urtasun. "Efficient Summarization with Read-Again and Copy Mechanism". CoRR (2016)
-- 
+-  Linqing Liu, Yao Lu, Min Yang, Qiang Qu, Jia Zhu, Hongyan Li. "Generative Adversarial Network for Abstractive Text Summarization". To appear
