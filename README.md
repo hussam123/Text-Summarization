@@ -1,4 +1,4 @@
-# Text-Summarisation
+# Text-Summarization
 Abstractive and Extractive Deep Learning Methods for Text Summarisation
 
 # References
