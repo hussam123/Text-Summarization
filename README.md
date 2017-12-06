@@ -15,3 +15,13 @@ References
 
 7. Qingyu Zhou, Nan Yang, Furu Wei, Ming Zhou. "Selective Encoding for Abstractive Sentence Summarization". ACL (2017)
 8. 
+
+
+To Read:
+- Jianpeng Cheng, Mirella Lapata. "Neural Summarization by Extracting Sentences and Words". ACL(2016)
+- Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li. "Incorporating Copying Mechanism in Sequence-to-Sequence Learning". ACL (2016)
+- Gulcehre Caglar, Sungjin Ahn, Ramesh Nallapati, Bowen Zhou, and Yoshua Bengio. "Pointing the Unknown Words". ACL (2016).
+- Suzuki Jun, and Masaaki Nagata. "Cutting-off Redundant Repeating Generations for Neural Abstractive Summarization". EACL (2017)
+- Jiwei Tan and Xiaojun Wan. "Abstractive Document Summarization with a Graph-Based Attentional Neural Model". ACL (2017).
+- Wenyuan Zeng, Wenjie Luo, Sanja Fidler, Raquel Urtasun. "Efficient Summarization with Read-Again and Copy Mechanism". CoRR (2016)
+- 
