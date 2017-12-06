@@ -1,7 +1,7 @@
 # Text-Summarisation
 Abstractive and Extractive Deep Learning Methods for Text Summarisation
 
-References
+# References
 1. Alexander M. Rush, Sumit Chopra, Jason Weston. [A Neural Attention Model for Abstractive Sentence Summarization](http://aclweb.org/anthology/D/D15/D15-1044.pdf). EMNLP (2015).
 2. Nallapati Ramesh, Bing Xiang, and Bowen Zhou. "SummaRuNNer: A Recurrent Neural Network Based Sequence Model for Extractive Summarization of Documents."  AAAI(2017).
 
@@ -17,7 +17,7 @@ References
 8. 
 
 
-To Read:
+# To Read:
 - Jianpeng Cheng, Mirella Lapata. "Neural Summarization by Extracting Sentences and Words". ACL(2016)
 - Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li. "Incorporating Copying Mechanism in Sequence-to-Sequence Learning". ACL (2016)
 - Gulcehre Caglar, Sungjin Ahn, Ramesh Nallapati, Bowen Zhou, and Yoshua Bengio. "Pointing the Unknown Words". ACL (2016).
