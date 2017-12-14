@@ -30,3 +30,4 @@ Abstractive and Extractive Deep Learning Methods for Text Summarization
 - Jiwei Tan and Xiaojun Wan. "Abstractive Document Summarization with a Graph-Based Attentional Neural Model". ACL (2017).
 - Wenyuan Zeng, Wenjie Luo, Sanja Fidler, Raquel Urtasun. "Efficient Summarization with Read-Again and Copy Mechanism". CoRR (2016)
 -  Linqing Liu, Yao Lu, Min Yang, Qiang Qu, Jia Zhu, Hongyan Li. "Generative Adversarial Network for Abstractive Text Summarization". To appear
+- Kristina Toutanova, Chris Brockett, Ke M. Tran, Saleema Amershi. "A Dataset and Evaluation Metrics for Abstractive Compression of Sentences and Short Paragraphs". EMNLP (2016).
