@@ -57,7 +57,10 @@ Yinfei Yang, Forrest Sheng Bao, Ani Nenkovay EACL 2017
 Siddhartha Banerjee, Prasenjit Mitra, Kazunari Sugiyama 
  - Towards Abstraction from Extraction: Multiple Timescale Gated Recurrent Unit for Summarization
 Minsoo Kim, Moirangthem Dennis Singh, Minho Lee 
-
+- Shibhansh Dohare, Harish Karnick. Text Summarization using Abstract Meaning Representation. 2017
+- Fei Liu, Jeffrey Flanigan, Sam Thomson, Norman Sadeh, and Noah A. Smith. Toward Abstractive Summarization Using Semantic Representations. NAACL 2015
+- Jiwei Tan and Xiaojun Wan. Abstractive Document Summarization with a Graph-Based Attentional Neural Model. ACL, 2017.
+- Jin-ge Yao, Xiaojun Wan and Jianguo Xiao. Recent Advances in Document Summarization. KAIS, survey paper, 2017.
  
  
 
