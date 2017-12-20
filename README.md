@@ -61,6 +61,8 @@ Minsoo Kim, Moirangthem Dennis Singh, Minho Lee
 - Fei Liu, Jeffrey Flanigan, Sam Thomson, Norman Sadeh, and Noah A. Smith. Toward Abstractive Summarization Using Semantic Representations. NAACL 2015
 - Jiwei Tan and Xiaojun Wan. Abstractive Document Summarization with a Graph-Based Attentional Neural Model. ACL, 2017.
 - Jin-ge Yao, Xiaojun Wan and Jianguo Xiao. Recent Advances in Document Summarization. KAIS, survey paper, 2017.
+- Extractive Summarization using Continuous Vector Space Models
+- Text summarization using unsupervised deep learning
  
  
 
