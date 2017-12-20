@@ -36,5 +36,29 @@ Abstractive and Extractive Deep Learning Methods for Text Summarization
 - Jiwei Tan and Xiaojun Wan. "Abstractive Document Summarization with a Graph-Based Attentional Neural Model". ACL (2017).
 - Wenyuan Zeng, Wenjie Luo, Sanja Fidler, Raquel Urtasun. "Efficient Summarization with Read-Again and Copy Mechanism". CoRR (2016)
 -  Linqing Liu, Yao Lu, Min Yang, Qiang Qu, Jia Zhu, Hongyan Li. "Generative Adversarial Network for Abstractive Text Summarization". To appear
-- Xinyu Hua, Lu Wang A Pilot Study of Domain Adaptation Effect for Neural Abstractive Summarization NFiS@EMNLP 2017
-- Jiwei Tan and Xiaojun Wan. Abstractive Document Summarization with a Graph-Based Attentional Neural Model. ACL, 2017.
+- Xinyu Hua, Lu Wang. A Pilot Study of Domain Adaptation Effect for Neural Abstractive Summarization NFiS@EMNLP 2017
+- Piji Li, Wai Lam, Lidong Bing, Weiwei Guo, Hang Li Cascaded Attention based Unsupervised Information Distillation for Compressive Summarization EMNLP 2017
+- Piji Li, Wai Lam, Lidong Bing, Zihao Wang Deep Recurrent Generative Decoder for Abstractive Text Summarization EMNLP 2017
+- Towards Improving Abstractive Summarization via Entailment Generation
+-  Paraphrase Generation with Deep Reinforcement Learning
+- Angela Fan, David Grangier, Michael Auli  Controllable Abstractive Summarization
+- Ziqiang Cao, Furu Wei, Wenjie Li, Sujian Li Faithful to the Original: Fact Aware Neural Abstractive Summarization
+- Liqun Shao, Hao Zhang, Ming Jia, Jie Wang Efficient and Effective Single-Document Summarizations and A Word-Embedding Measurement of Quality
+- Reader-Aware Multi-Document Summarization: An Enhanced Model and The First Dataset
+Piji Li, Lidong Bing, Wai Lam 
+- Shuming Ma, Xu Sun, Jingjing Xu, Houfeng Wang, Wenjie Li, Qi Su  Improving Semantic Relevance for Sequence-to-Sequence Learning of Chinese Social Media Text Summarization
+- Extractive Summarization: Limits, Compression, Generalized Model and Heuristics
+Rakesh Verma, Daniel Lee 
+- Automatic Keyword Extraction for Text Summarization: A Survey
+Santosh Kumar Bharti, Korra Sathya Babu 
+- Detecting (Un)Important Content for Single-Document News Summarization
+Yinfei Yang, Forrest Sheng Bao, Ani Nenkovay EACL 2017 
+- Abstractive Meeting Summarization UsingDependency Graph Fusion
+Siddhartha Banerjee, Prasenjit Mitra, Kazunari Sugiyama 
+ - Towards Abstraction from Extraction: Multiple Timescale Gated Recurrent Unit for Summarization
+Minsoo Kim, Moirangthem Dennis Singh, Minho Lee 
+
+ 
+ 
+
+
