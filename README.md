@@ -21,6 +21,8 @@ Abstractive and Extractive Deep Learning Methods for Text Summarization
 
 9. Kristina Toutanova, Chris Brockett, Ke M. Tran, Saleema Amershi. "A Dataset and Evaluation Metrics for Abstractive Compression of Sentences and Short Paragraphs". EMNLP (2016).
 
+10. Piji Li, Wai Lam, Lidong Bing, Zihao Wang. "Deep Recurrent Generative Decoder for Abstractive Text Summarization". EMNLP (2017).
+
 
 # Basics
 1. Ilya Sutskever, Oriol Vinyals, Quoc V. Le."Sequence to Sequence Learning with Neural Networks" . NIPS 2014.
@@ -38,7 +40,6 @@ Abstractive and Extractive Deep Learning Methods for Text Summarization
 -  Linqing Liu, Yao Lu, Min Yang, Qiang Qu, Jia Zhu, Hongyan Li. "Generative Adversarial Network for Abstractive Text Summarization". To appear
 - Xinyu Hua, Lu Wang. A Pilot Study of Domain Adaptation Effect for Neural Abstractive Summarization NFiS@EMNLP 2017
 - Piji Li, Wai Lam, Lidong Bing, Weiwei Guo, Hang Li Cascaded Attention based Unsupervised Information Distillation for Compressive Summarization EMNLP 2017
-- Piji Li, Wai Lam, Lidong Bing, Zihao Wang Deep Recurrent Generative Decoder for Abstractive Text Summarization EMNLP 2017
 - Towards Improving Abstractive Summarization via Entailment Generation
 -  Paraphrase Generation with Deep Reinforcement Learning
 - Angela Fan, David Grangier, Michael Auli  Controllable Abstractive Summarization
@@ -63,6 +64,7 @@ Minsoo Kim, Moirangthem Dennis Singh, Minho Lee
 - Jin-ge Yao, Xiaojun Wan and Jianguo Xiao. Recent Advances in Document Summarization. KAIS, survey paper, 2017.
 - Extractive Summarization using Continuous Vector Space Models
 - Text summarization using unsupervised deep learning
+-Source-side Prediction for Neural Headline Generation
  
  
 
