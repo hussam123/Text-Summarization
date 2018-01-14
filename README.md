@@ -23,6 +23,10 @@ Abstractive and Extractive Deep Learning Methods for Text Summarization
 
 10. Piji Li, Wai Lam, Lidong Bing, Zihao Wang. "Deep Recurrent Generative Decoder for Abstractive Text Summarization". EMNLP (2017).
 
+11. Jin-ge Yao, Xiaojun Wan and Jianguo Xiao. "Recent Advances in Document Summarization". KAIS, survey paper, 2017.
+
+12. Shibhansh Dohare, Harish Karnick. "Text Summarization using Abstract Meaning Representation". arxiv 2017
+
 
 # Basics
 1. Ilya Sutskever, Oriol Vinyals, Quoc V. Le."Sequence to Sequence Learning with Neural Networks" . NIPS 2014.
@@ -44,7 +48,6 @@ Abstractive and Extractive Deep Learning Methods for Text Summarization
 -  Paraphrase Generation with Deep Reinforcement Learning
 - Angela Fan, David Grangier, Michael Auli  Controllable Abstractive Summarization
 - Ziqiang Cao, Furu Wei, Wenjie Li, Sujian Li Faithful to the Original: Fact Aware Neural Abstractive Summarization
-- Liqun Shao, Hao Zhang, Ming Jia, Jie Wang Efficient and Effective Single-Document Summarizations and A Word-Embedding Measurement of Quality
 - Reader-Aware Multi-Document Summarization: An Enhanced Model and The First Dataset
 Piji Li, Lidong Bing, Wai Lam 
 - Shuming Ma, Xu Sun, Jingjing Xu, Houfeng Wang, Wenjie Li, Qi Su  Improving Semantic Relevance for Sequence-to-Sequence Learning of Chinese Social Media Text Summarization
@@ -58,10 +61,8 @@ Yinfei Yang, Forrest Sheng Bao, Ani Nenkovay EACL 2017
 Siddhartha Banerjee, Prasenjit Mitra, Kazunari Sugiyama 
  - Towards Abstraction from Extraction: Multiple Timescale Gated Recurrent Unit for Summarization
 Minsoo Kim, Moirangthem Dennis Singh, Minho Lee 
-- Shibhansh Dohare, Harish Karnick. Text Summarization using Abstract Meaning Representation. 2017
 - Fei Liu, Jeffrey Flanigan, Sam Thomson, Norman Sadeh, and Noah A. Smith. Toward Abstractive Summarization Using Semantic Representations. NAACL 2015
 - Jiwei Tan and Xiaojun Wan. Abstractive Document Summarization with a Graph-Based Attentional Neural Model. ACL, 2017.
-- Jin-ge Yao, Xiaojun Wan and Jianguo Xiao. Recent Advances in Document Summarization. KAIS, survey paper, 2017.
 - Extractive Summarization using Continuous Vector Space Models
 - Text summarization using unsupervised deep learning
 -Source-side Prediction for Neural Headline Generation
