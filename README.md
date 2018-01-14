@@ -68,7 +68,10 @@ Minsoo Kim, Moirangthem Dennis Singh, Minho Lee
 -Source-side Prediction for Neural Headline Generation
  - Piji Li, Zihao Wang, Wai Lam, Zhaochun Ren, and Lidong Bing. 2017. Salience estimation via vari- ational auto-encoders for multi-document summa- rization
  - Language as a latent variable: Discrete generative models for sen- tence compression
- - Control- ling output length in neural encoder-decoders
+ - Controlling output length in neural encoder-decoders
+ - Neural Headline Generation on Abstract Meaning Representation. 2016
+ - Abstractive Text Summarization Using Deep Learning
+ - Conceptual Multi-layer Neural Network Model for Headline Generation
  
 
 
