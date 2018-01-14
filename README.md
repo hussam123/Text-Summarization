@@ -54,6 +54,25 @@ Piji Li, Lidong Bing, Wai Lam
 - Extractive Summarization: Limits, Compression, Generalized Model and Heuristics
 Rakesh Verma, Daniel Lee 
 - Automatic Keyword Extraction for Text Summarization: A Survey
+- TL;DR: Mining Reddit to Learn Automatic Summarization
+- Paraphrase Generation with Deep Reinforcement Learning
+- Exploring Teacher Forcing Techniques for Sequence-to-Sequence Abstractive Headline Summarization
+- Generation for Articles using Abstractive Summarization
+- Avoiding Your Teacher's Mistakes: Training Neural Networks with Controlled Weak Supervision
+- Dialogue Act Sequence Labeling using Hierarchical encoder with CRF
+- Graph-Based Abstractive Summarization: Compression of Semantic Graphs
+- Look-ahead Attention for Generation in Neural Machine Translation
+- Actor-Critic Sequence Training for Image Captioning
+- Abstractive Document Summarization via Neural Model with Joint Attention
+- Attention Is All You Need
+- Low-Resource Neural Headline Generation
+- Training RNNs as Fast as CNNs
+- Neural Text Generation: A Practical Guide
+- Convolutional Sequence to Sequence Learning
+- AHNN: An Attention-Based Hybrid Neural Network for Sentence Modeling
+- A Sequential Neural Encoder With Latent Structured Description for Modeling Sentences
+- Adversarial learning for neural dialogue generation
+
 Santosh Kumar Bharti, Korra Sathya Babu 
 - Detecting (Un)Important Content for Single-Document News Summarization
 Yinfei Yang, Forrest Sheng Bao, Ani Nenkovay EACL 2017 
