@@ -36,16 +36,18 @@ Abstractive and Extractive Deep Learning Methods for Text Summarization
 3. Thang Luong, Hieu Pham, Christopher D. Manning." Effective Approaches to Attention-based Neural Machine Translation". EMNLP 2015.
 
 # To Read:
-
+ - Tan, Jiwei, Xiaojun Wan, and Jianguo Xiao. "From Neural Sentence Summarization to Headline Generation: A Coarse-to-Fine Approach." IJCAI 2017
+ - Piji Li, Wai Lam, Lidong Bing, Weiwei Guo, Hang Li. Cascaded Attention based Unsupervised Information Distillation for Compressive Summarization EMNLP 2017
+ - Jiwei Tan and Xiaojun Wan. "Abstractive Document Summarization with a Graph-Based Attentional Neural Model". ACL (2017).
+ 
 - Wenyuan Zeng, Wenjie Luo, Sanja Fidler, Raquel Urtasun. "Efficient Summarization with Read-Again and Copy Mechanism." arXiv (2016)
 - Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li. "Incorporating Copying Mechanism in Sequence-to-Sequence Learning". ACL (2016)
 - Gulcehre Caglar, Sungjin Ahn, Ramesh Nallapati, Bowen Zhou, and Yoshua Bengio. "Pointing the Unknown Words". ACL (2016).
 - Suzuki Jun, and Masaaki Nagata. "Cutting-off Redundant Repeating Generations for Neural Abstractive Summarization". EACL (2017)
-- Jiwei Tan and Xiaojun Wan. "Abstractive Document Summarization with a Graph-Based Attentional Neural Model". ACL (2017).
-- Wenyuan Zeng, Wenjie Luo, Sanja Fidler, Raquel Urtasun. "Efficient Summarization with Read-Again and Copy Mechanism". CoRR (2016)
+
 -  Linqing Liu, Yao Lu, Min Yang, Qiang Qu, Jia Zhu, Hongyan Li. "Generative Adversarial Network for Abstractive Text Summarization". To appear
 - Xinyu Hua, Lu Wang. A Pilot Study of Domain Adaptation Effect for Neural Abstractive Summarization NFiS@EMNLP 2017
-- Piji Li, Wai Lam, Lidong Bing, Weiwei Guo, Hang Li Cascaded Attention based Unsupervised Information Distillation for Compressive Summarization EMNLP 2017
+
 - Towards Improving Abstractive Summarization via Entailment Generation
 -  Paraphrase Generation with Deep Reinforcement Learning
 - Angela Fan, David Grangier, Michael Auli  Controllable Abstractive Summarization
@@ -53,8 +55,7 @@ Abstractive and Extractive Deep Learning Methods for Text Summarization
 - Reader-Aware Multi-Document Summarization: An Enhanced Model and The First Dataset
 Piji Li, Lidong Bing, Wai Lam 
 - Shuming Ma, Xu Sun, Jingjing Xu, Houfeng Wang, Wenjie Li, Qi Su  Improving Semantic Relevance for Sequence-to-Sequence Learning of Chinese Social Media Text Summarization
-- Extractive Summarization: Limits, Compression, Generalized Model and Heuristics
-Rakesh Verma, Daniel Lee 
+- Extractive Summarization: Limits, Compression, Generalized Model and Heuristics. Rakesh Verma, Daniel Lee 
 - Automatic Keyword Extraction for Text Summarization: A Survey
 - TL;DR: Mining Reddit to Learn Automatic Summarization
 - Paraphrase Generation with Deep Reinforcement Learning
@@ -73,9 +74,7 @@ Rakesh Verma, Daniel Lee
 - Convolutional Sequence to Sequence Learning
 - AHNN: An Attention-Based Hybrid Neural Network for Sentence Modeling
 - A Sequential Neural Encoder With Latent Structured Description for Modeling Sentences
-- Adversarial learning for neural dialogue generation
-
-Santosh Kumar Bharti, Korra Sathya Babu 
+- Adversarial learning for neural dialogue generation. Santosh Kumar Bharti, Korra Sathya Babu 
 - Detecting (Un)Important Content for Single-Document News Summarization
 Yinfei Yang, Forrest Sheng Bao, Ani Nenkovay EACL 2017 
 - Abstractive Meeting Summarization UsingDependency Graph Fusion
@@ -93,7 +92,6 @@ Minsoo Kim, Moirangthem Dennis Singh, Minho Lee
  - Neural Headline Generation on Abstract Meaning Representation. 2016
  - Abstractive Text Summarization Using Deep Learning
  - Conceptual Multi-layer Neural Network Model for Headline Generation
- - Tan, Jiwei, Xiaojun Wan, and Jianguo Xiao. "From Neural Sentence Summarization to Headline Generation: A Coarse-to-Fine Approach." IJCAI 2017
  - Graph-based Neural Multi-Document Summarization.
  - Neural Extractive Summarization with Side Information
  - "Neural headline generation on abstract meaning representation
