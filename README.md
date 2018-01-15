@@ -91,6 +91,13 @@ Minsoo Kim, Moirangthem Dennis Singh, Minho Lee
  - Neural Headline Generation on Abstract Meaning Representation. 2016
  - Abstractive Text Summarization Using Deep Learning
  - Conceptual Multi-layer Neural Network Model for Headline Generation
- 
+ - Tan, Jiwei, Xiaojun Wan, and Jianguo Xiao. "From Neural Sentence Summarization to Headline Generation: A Coarse-to-Fine Approach." IJCAI 2017
+ - Graph-based Neural Multi-Document Summarization.
+ - Neural Extractive Summarization with Side Information
+ - "Neural headline generation on abstract meaning representation
+ - Language as a Latent Variable: Discrete Generative Models for Sentence Compression
+ - "AttSum: Joint Learning of Focusing and Summarization with Neural Attention"
+ - Neural head- line generation with minimum risk training
+ - Joint copying and restricted generation for paraphrase
 
 
