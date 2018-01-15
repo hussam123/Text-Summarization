@@ -27,6 +27,8 @@ Abstractive and Extractive Deep Learning Methods for Text Summarization
 
 12. Shibhansh Dohare, Harish Karnick. "Text Summarization using Abstract Meaning Representation". arxiv 2017
 
+13. Jeffrey Ling, Alexander M. Rush."Coarse-to-Fine Attention Models for Document Summarization". NFiS@EMNLP 2017
+
 
 # Basics
 1. Ilya Sutskever, Oriol Vinyals, Quoc V. Le."Sequence to Sequence Learning with Neural Networks" . NIPS 2014.
@@ -34,7 +36,7 @@ Abstractive and Extractive Deep Learning Methods for Text Summarization
 3. Thang Luong, Hieu Pham, Christopher D. Manning." Effective Approaches to Attention-based Neural Machine Translation". EMNLP 2015.
 
 # To Read:
-- Jeffrey Ling, Alexander M. Rush."Coarse-to-Fine Attention Models for Document Summarization". NFiS@EMNLP 2017
+
 - Wenyuan Zeng, Wenjie Luo, Sanja Fidler, Raquel Urtasun. "Efficient Summarization with Read-Again and Copy Mechanism." arXiv (2016)
 - Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li. "Incorporating Copying Mechanism in Sequence-to-Sequence Learning". ACL (2016)
 - Gulcehre Caglar, Sungjin Ahn, Ramesh Nallapati, Bowen Zhou, and Yoshua Bengio. "Pointing the Unknown Words". ACL (2016).
