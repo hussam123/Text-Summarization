@@ -29,6 +29,11 @@ Abstractive and Extractive Deep Learning Methods for Text Summarization
 
 13. Jeffrey Ling, Alexander M. Rush."Coarse-to-Fine Attention Models for Document Summarization". NFiS@EMNLP 2017
 
+14. Siddhartha Banerjee, Prasenjit Mitra, Kazunari Sugiyama. Abstractive Meeting Summarization UsingDependency Graph Fusion.
+
+15. Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li. "Incorporating Copying Mechanism in Sequence-to-Sequence Learning". ACL (2016).
+
+
 
 # Basics
 1. Ilya Sutskever, Oriol Vinyals, Quoc V. Le."Sequence to Sequence Learning with Neural Networks" . NIPS 2014.
@@ -44,7 +49,7 @@ Abstractive and Extractive Deep Learning Methods for Text Summarization
 - Attention Is All You Need
 - Convolutional Sequence to Sequence Learning
 - Wenyuan Zeng, Wenjie Luo, Sanja Fidler, Raquel Urtasun. "Efficient Summarization with Read-Again and Copy Mechanism." arXiv (2016)
-- Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li. "Incorporating Copying Mechanism in Sequence-to-Sequence Learning". ACL (2016)
+
 - Gulcehre Caglar, Sungjin Ahn, Ramesh Nallapati, Bowen Zhou, and Yoshua Bengio. "Pointing the Unknown Words". ACL (2016).
 - Suzuki Jun, and Masaaki Nagata. "Cutting-off Redundant Repeating Generations for Neural Abstractive Summarization". EACL (2017)
 
@@ -71,17 +76,13 @@ Piji Li, Lidong Bing, Wai Lam
 - Dialogue Act Sequence Labeling using Hierarchical encoder with CRF
 - Graph-Based Abstractive Summarization: Compression of Semantic Graphs
 - Look-ahead Attention for Generation in Neural Machine Translation
-- Actor-Critic Sequence Training for Image Captioning
 
-- Training RNNs as Fast as CNNs
 - Neural Text Generation: A Practical Guide
 - AHNN: An Attention-Based Hybrid Neural Network for Sentence Modeling
 - A Sequential Neural Encoder With Latent Structured Description for Modeling Sentences
 - Adversarial learning for neural dialogue generation. Santosh Kumar Bharti, Korra Sathya Babu 
 - Detecting (Un)Important Content for Single-Document News Summarization
-Yinfei Yang, Forrest Sheng Bao, Ani Nenkovay EACL 2017 
-- Abstractive Meeting Summarization UsingDependency Graph Fusion
-Siddhartha Banerjee, Prasenjit Mitra, Kazunari Sugiyama 
+Yinfei Yang, Forrest Sheng Bao, Ani Nenkovay EACL 2017  
  - Towards Abstraction from Extraction: Multiple Timescale Gated Recurrent Unit for Summarization
 Minsoo Kim, Moirangthem Dennis Singh, Minho Lee 
 
@@ -90,7 +91,7 @@ Minsoo Kim, Moirangthem Dennis Singh, Minho Lee
   - Graph-based Neural Multi-Document Summarization.
   
 - Text summarization using unsupervised deep learning
- - Piji Li, Zihao Wang, Wai Lam, Zhaochun Ren, and Lidong Bing. 2017. Salience estimation via variational auto-encoders for multi-document summa- rization
+ - Piji Li, Zihao Wang, Wai Lam, Zhaochun Ren, and Lidong Bing. 2017. Salience estimation via variational auto-encoders for multi-document summarization
  - Controlling output length in neural encoder-decoders
  - Abstractive Text Summarization Using Deep Learning
 
