@@ -3,7 +3,7 @@ Abstractive and Extractive Deep Learning Methods for Text Summarization
 # Meeting Summarization
 1. [Abstractive Meeting Summarization with Entailment and Fusion. ](https://pdfs.semanticscholar.org/3388/cf1186d5ca3ebf83dcad7530a0130075b6cf.pdf)
 
-2. [A Template-based Abstractive Meeting Summarization: Leveraging Summary and Source Text Relationships] (https://aclanthology.info/pdf/W/W14/W14-4407.pdf)
+2. [A Template-based Abstractive Meeting Summarization: Leveraging Summary and Source Text Relationships. ](https://aclanthology.info/pdf/W/W14/W14-4407.pdf)
 
 3. [Domain-Independent Abstract Generation for Focused Meeting Summarization.] (https://www.cs.cornell.edu/home/cardie/papers/acl13-Domain.pdf)
 
