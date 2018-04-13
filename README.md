@@ -1,5 +1,20 @@
 # Text-Summarization
 Abstractive and Extractive Deep Learning Methods for Text Summarization
+# Meeting Summarization
+1. [Abstractive Meeting Summarization with Entailment and Fusion. ](https://pdfs.semanticscholar.org/3388/cf1186d5ca3ebf83dcad7530a0130075b6cf.pdf)
+
+2. [A Template-based Abstractive Meeting Summarization: Leveraging Summary and Source Text Relationships] (https://aclanthology.info/pdf/W/W14/W14-4407.pdf)
+
+3. [Domain-Independent Abstract Generation for Focused Meeting Summarization.] (https://www.cs.cornell.edu/home/cardie/papers/acl13-Domain.pdf)
+
+4. [Generating and Validating Abstracts of Meeting Conversations: a User Study]
+ (https://www.aclweb.org/anthology/W/W10/W10-4211.pdf)
+
+5. [Generating Abstractive Summaries from Meeting Transcripts]
+(https://arxiv.org/abs/1609.07033)
+
+6. (ongoing work) [Abstractive Meeting Summarization as a Markov Decision Process]
+(https://link.springer.com/chapter/10.1007/978-3-319-18356-5_19)
 
 # References
 1. Alexander M. Rush, Sumit Chopra, Jason Weston. [A Neural Attention Model for Abstractive Sentence Summarization](http://aclweb.org/anthology/D/D15/D15-1044.pdf). EMNLP (2015).
