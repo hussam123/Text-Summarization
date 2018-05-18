@@ -50,7 +50,6 @@ Abstractive and Extractive Deep Learning Methods for Text Summarization
 
 5. [Generating Abstractive Summaries from Meeting Transcripts](https://arxiv.org/abs/1609.07033)
 
-6. (ongoing work) [Abstractive Meeting Summarization as a Markov Decision Process](https://link.springer.com/chapter/10.1007/978-3-319-18356-5_19)
 
 # Basics
 1. Ilya Sutskever, Oriol Vinyals, Quoc V. Le."Sequence to Sequence Learning with Neural Networks" . NIPS 2014.
